@@ -1,0 +1,15 @@
+{
+    "naver": 
+    {
+        "client_id": "",
+        "client_secret": ""
+    },
+    "kakao":
+    {
+        "apiKey": ""
+    },
+    "weather":
+    {
+        "ServiceKey": ""
+    }
+}
